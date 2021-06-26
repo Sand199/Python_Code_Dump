@@ -1,3 +1,4 @@
+# @author: Sand1
 # Hangman game
 
 
